@@ -1,0 +1,10 @@
+document
+DOM(Document Object Model)
+window
+ajax
+cookie
+offline web application
+webRTC
+speech
+webGL
+webVR
